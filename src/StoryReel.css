@@ -1,0 +1,14 @@
+.storyReel {
+    display: flex;
+}
+.storyy {
+    display: flex;
+}
+
+@media (max-width: 560px){
+    .storyReel{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
